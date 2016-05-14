@@ -1,0 +1,24 @@
+{
+  "name": "angular-ttd-dashboard",
+  "description": "test driven dashboard application",
+  "main": "index.js",
+  "authors": [
+    "Prashanth Reddy"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.5",
+    "angular-mocks": "^1.5.5",
+    "angular-bootstrap": "^1.3.2",
+    "angular-ui-router": "^0.2.18"
+  }
+}
