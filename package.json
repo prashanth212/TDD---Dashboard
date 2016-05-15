@@ -14,6 +14,8 @@
     "bower": "^1.7.9",
     "chai": "^3.5.0",
     "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-webserver": "^0.9.1",
     "http-server": "^0.9.0",
     "karma": "^0.13.22",
     "karma-chai": "^0.1.0",
